@@ -5,3 +5,4 @@ This folder contains machine learning projetcs I have finished.
 - Finding Donors: Employed several supervised learning algorithms(Random Forest, AdaBoost and Logistic Regression) to predict whether an individual's income exceeds 50k. Used grid search to tune model parameters
 - Bank Note: Created deep learning classifier using Tensorflow to categorize bank note as authentic or not
 - Image Classifier: Deep Learning classifier using PyTorch to classify flower images
+- Hierarchical Clustering: Simple clustering model using three different hierarchical cluster methods
