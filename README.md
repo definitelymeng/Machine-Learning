@@ -1,5 +1,5 @@
 # Machine-Learning
-This folder contains machine learning projetcs I have finished.
+This folder contains data analysis and machine learning projetcs I have finished.
 ### Image Classifier
 Deep Learning classifier using PyTorch to classify flower images
 ### Finding Donors
