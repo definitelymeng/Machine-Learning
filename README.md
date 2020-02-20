@@ -3,7 +3,7 @@ This folder contains data analysis and machine learning projetcs I have finished
 
 **Image Classifier** : Deep Learning classifier using PyTorch to classify flower images
 
-**Customer Segments** :Unsupervised learning model for to cluster general population for better customer targeting
+**Customer Segments** :Unsupervised learning model to cluster general population for better customer targeting
 
 **Finding Donors**: Employed several supervised learning algorithms(Random Forest, AdaBoost and Logistic Regression) to predict whether an individual's income exceeds 50k. Used grid search to tune model parameters
 
